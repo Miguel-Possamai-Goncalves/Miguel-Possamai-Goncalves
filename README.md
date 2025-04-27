@@ -14,5 +14,5 @@ Atualmente sou acadêmico da 5ª fase do curso de Ciência da Computação na **
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 📫 Como me encontrar:
-- **LinkedIn**: [Miguel Possamai](https://www.linkedin.com/in/miguel-possamai-gon%C3%A7alves/)
-- **E-mail**: miguelpossamaigonçalves2005@gmail.com
+- **LinkedIn**: [Miguel Possamai Gonçalves](https://www.linkedin.com/in/miguel-possamai-gon%C3%A7alves/)
+- **Gmail**: miguelpossamaigonçalves2005@gmail.com
