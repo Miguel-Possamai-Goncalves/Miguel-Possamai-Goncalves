@@ -12,7 +12,7 @@ Atualmente sou acadêmico da 5ª fase do curso de Ciência da Computação na **
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 📫 Como me encontrar:
 - **LinkedIn**: [Miguel Possamai Gonçalves](https://www.linkedin.com/in/miguel-possamai-gon%C3%A7alves/)
