@@ -17,4 +17,4 @@ Atualmente sou acadêmico da 5ª fase do curso de Ciência da Computação na **
 
 ## 📫 Como me encontrar:
 - **LinkedIn**: [Miguel Possamai Gonçalves](https://www.linkedin.com/in/miguel-possamai-gon%C3%A7alves/)
-- **Gmail**: miguelpossamaigonçalves2005 [at] gmail [dot] com
+- **Gmail**: <a href="mailto:miguelpossamaigonçalves2005@gmail.com">miguelpossamaigonçalves2005@gmail.com</a>
