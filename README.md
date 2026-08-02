@@ -1,6 +1,8 @@
 # Olá, eu sou o Miguel! 👋
 
-Atualmente sou acadêmico da 6ª fase do curso de Ciência da Computação na **Universidade do Extremo Sul Catarinense**. Tenho interesse em **desenvolvimento de software**, especialmente na área de **front-end**, mas com conhecimentos prévios em **back-end**. 
+Atualmente sou acadêmico da 8ª fase do curso de Ciência da Computação na **Universidade do Extremo Sul Catarinense**. Tenho interesse em **desenvolvimento de software**, especialmente na área de **front-end**, mas com conhecimentos prévios em **back-end**. 
+
+Atualmente trabalho na empresa **Sicoob Credija** como assistente de TI, atuando em atividades operacionais recorrentes, suporte ao usuário via Help Desk, confecção de documentações internas e atividades administrativas.
 
 ## 🚀 Algumas linguagens e ferramentas que uso ou já tive contato:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
